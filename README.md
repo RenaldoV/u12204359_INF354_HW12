@@ -2,6 +2,7 @@
 INF 354 Homework 12. 
 
 Andreas and Renaldo
+
 u12207871 and u12204359
 
 Note:
